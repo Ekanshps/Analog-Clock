@@ -66,3 +66,14 @@ body{
     height: var(--h);
     border-radius: 8px;
 }
+
+.footer {
+    flex-direction: row;
+    padding: 2rem 9%;
+
+}
+
+.footer-text p {
+    font-size: .7rem;
+    color: #6dee0a;
+}
